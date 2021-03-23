@@ -1,4 +1,4 @@
-package event_listener
+package hevent
 
 import (
 	"context"
